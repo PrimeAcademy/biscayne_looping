@@ -4,7 +4,9 @@
 // of monies:
 //   [5, .10, 1, .25, 20]
 // And put each "dollar bill" value into the dollars array.
+//   [5, 1, 20]
 // And put each "cents" value into the cents array.
+//   [.10, .25]
 let monies = [5, .10, 1, .25, 20];
 
 let dollars = [];
