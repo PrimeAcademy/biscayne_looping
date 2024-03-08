@@ -52,6 +52,12 @@ for (let oneThing of someThings) {
  // Do something with oneThing...
 }
 
+// -------------------------------------------------------------- //
+// -------------------------------------------------------------- //
+// Comparison of `for` vs `for...of` to solve the same problem!
+// -------------------------------------------------------------- //
+// -------------------------------------------------------------- //
+
 // In this example, or job is to look at each string in the
 // mySocks array. If the value of the string is 'blue', we
 // want to use console.log to make 'A blue sock!' appear in
